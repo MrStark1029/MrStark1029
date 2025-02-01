@@ -1,4 +1,4 @@
-Hi 👋 My name is Anurag Ninawe
+Hi! My name is Anurag Ninawe.
 ==============================
 
 Robotics Enthusiast & Mechanical Undergrad
