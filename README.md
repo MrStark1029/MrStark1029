@@ -1,25 +1,45 @@
-Hi! My name is Anurag Ninawe.
-==============================
+# Hello, I'm Anurag Ninawe!!
 
-Robotics Enthusiast & Mechanical Undergrad
-------------------------------------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anurag-ninawe-699029285)  
 
-Enthusiastic robotics explorer who once found coding dull, now comfortable with Python, C, and exploring basic machine learning techniques. Eager to contribute to collaborative projects and grow within the exciting world of robotics and AI.
+---
 
-* 🌍  I'm based in Nagpur
-* ✉️  You can contact me at [amninawe03@gmail.com](mailto:amninawe03@gmail.com)
-* 🧠  I'm learning Web Development and ROS2 currently
-* 🤝  I'm open to collaborating on AI ML projects, Robotic Projects
-* ⚡  Want to see Next Tony Stark?......
+### About Me
 
-### Skills
+I’m an engineering student at VNIT Nagpur focused on robotics, embedded systems, and automation. I work at the intersection of hardware and intelligent software systems, combining my skills in mechanical design and programming to build practical robotic solutions.
 
+- Currently building autonomous systems with intelligent control and vision
+- Passionate about robotics, embedded development, and real-time systems
+- Reach me at: anuragn1029@gmail.com
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-</p>
+---
 
+### Technical Skills
 
-### Socials
+`Python` `C` `Bare Metal Programming` `MicroControllers` `CAD Modeling`  
+`Machine Learning` `MAVROS` `Mission Planner` `OpenCV` `3D Printing`
 
-<p align="left"> <a href="https://www.github.com/MrStark1029" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/un_expectedly_me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anurag-ninawe-699029285" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
+
+### Selected Projects
+
+**Autonomous Robotic Bartender System**  
+An indoor robotic system with a mobile base, robotic arm, and RGB-D camera. The robot navigates between rooms, opens a fridge to retrieve a beer bottle, moves to a table in another room, and pours the drink into a cup. Involves multi-room path planning, object manipulation, and real-time control.
+
+**ISRO Robotics Challenge 2025**  
+Developing an autonomous drone system using Raspberry Pi, MAVROS, and Mission Planner. Integrated optical flow algorithms and navigation for aerial robotics in GPS-denied environments.
+
+**GeoBot – Terrain Classification Rover**  
+ESP32-based autonomous rover using machine learning for terrain analysis and remote exploration. Built for the EYRC23 competition at IIT Bombay. 
+
+**Handwriting Machine**  
+An Arduino-based stepper motor driven system, that converts computer texts into handwritten texts on paper. Designed for basic automation in document writing, integrating control systems and mechanical actuation.
+
+---
+
+### GitHub Analytics
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrStark1029&show_icons=true&theme=tokyonight) 
+---
+
+Curious mind. Builder at heart. Always open to learning and collaboration.
